@@ -1,8 +1,10 @@
-
+import Message from "./Message";
 
 function App() {
   return (
-    <h1> Hello From React App</h1>
+    <>
+    <Message/>
+    </>
   );
 }
 
